@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swifttestApp/TableViewCell.swift"
+            timestampString = "529935030.432507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swifttestApp.TableViewCell.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;swifttestApp.TableViewCell&gt;"
+                  moduleName = "swifttestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaurav/Projects/swifttestApp/swifttestApp/TableViewCell.swift"
+                  timestampString = "528991406.034807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swifttestApp.TableViewCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;swifttestApp.TableViewCell&gt;"
+                  moduleName = "swifttestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaurav/Projects/swifttestApp/swifttestApp/TableViewCell.swift"
+                  timestampString = "528991406.039169"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
